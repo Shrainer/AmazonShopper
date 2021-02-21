@@ -12,3 +12,8 @@ Script to do automatic purchases on Amazon.
 1. Run **gmail_api.py** to authorize Gmail API
 2. Fill **config.py** with all neccessary information
 3. Run **main.py**
+
+
+—————————————
+# UNFINISHED
+—————————————
