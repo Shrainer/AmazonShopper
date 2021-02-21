@@ -5,7 +5,7 @@ Script to do automatic purchases on Amazon.
 ## Requirments
 1. Enable Gmail API in your [Google account](https://developers.google.com/gmail/api/quickstart/python) and save **credentials.json** in script directory
 2. Have libraries from **requriments.txt** installed on Python >= 3.9:
-3. Download actual [google web driver](https://chromedriver.chromium.org/downloads)
+3. Download actual [Chrome web driver](https://chromedriver.chromium.org/downloads)
 
 —————————————
 ## Usage
