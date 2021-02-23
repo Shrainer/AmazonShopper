@@ -8,6 +8,7 @@ Script to do automatic purchases on Amazon.
   * Run `pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib`
   * Install other libraries from **requriments.txt** on Python >= 3.9.
 4. Download actual [Chrome web driver](https://chromedriver.chromium.org/downloads)
+5. Turn of 2FA and delete phone number from your Amazon account.
 
 —————————————
 ## Usage
