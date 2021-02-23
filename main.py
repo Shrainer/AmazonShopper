@@ -66,7 +66,7 @@ def place_order(driver):
         exit()
     else:
         #driver.find_element_by_name('placeYourOrder1').click()
-        pass
+        print("Bying...")
     return driver
 
 
